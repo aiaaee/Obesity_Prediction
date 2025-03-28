@@ -1,4 +1,4 @@
-# Obesity_Prediction
+# Obesity Prediction
 
 ![dataset-cover](https://github.com/user-attachments/assets/1e4f6565-ca86-4aff-8c9d-2de1f121058e)
 
