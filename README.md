@@ -42,3 +42,6 @@ Most of the data was generated using synthetic techniques, while some were colle
 
 **NObeyesdad** – Obesity level (Insufficient Weight, Normal Weight, Overweight Level I, Overweight Level II, Obesity Type I, Obesity Type II, Obesity Type III).
 
+
+
+This dataset provides a structured view of how different lifestyle factors relate to obesity levels, making it useful for healthcare analysis and decision-making.
