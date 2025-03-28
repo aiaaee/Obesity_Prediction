@@ -1,5 +1,8 @@
 # Obesity_Prediction
 
+![dataset-cover](https://github.com/user-attachments/assets/1e4f6565-ca86-4aff-8c9d-2de1f121058e)
+
+
 ## About Dataset 
 This dataset helps estimate obesity levels based on eating habits, family history and physical condition. It includes data from individuals in Mexico, Peru, and Colombia, covering 16 lifestyle and health-related features with 2111 records. The labels classify obesity levels, ranging from underweight to different obesity types.
 Most of the data was generated using synthetic techniques, while some were collected directly from users through a web platform. It is useful for classification, regression, and clustering tasks.
